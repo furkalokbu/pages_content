@@ -1,0 +1,4 @@
+Django==3.2
+django-3-jet==1.0.7
+django-ckeditor>=5.9.0
+psycopg2-binary

@@ -1,0 +1,8 @@
+
+*.pyc
+*.iml
+*.xml
+env
+/media/
+fabfile.pyc
+.vscode
